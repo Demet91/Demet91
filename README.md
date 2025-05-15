@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey 👋 Demet is here 😎
+ Merhaba 👋 Profilime Hoşgeldiniz 🙂
 </h1>
 <br>
 
